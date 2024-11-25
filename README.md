@@ -188,13 +188,12 @@ jail.html
 ```
 
 ## OUTPUT
-runserver map.png
-1.png
-2.png
-3.png
-4.png
-5.png
-
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
+![alt text](<runserver map.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
